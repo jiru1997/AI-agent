@@ -5,6 +5,9 @@
 课程链接是：https://www.bilibili.com/video/BV1Sz421m7Rr/?p=12&spm_id_from=pageDriver&vd_source=17bc3f952f3aa47048893d0a5a16767c 
 特此说明！
 
+![image](https://github.com/user-attachments/assets/3e4985d3-b10a-4efb-87e1-267074d5d4c7)
+
+
 ### 2-说明
 1. 该github为作者学习了上述大佬课程里面代码，重新复刻了一版。主要用于学习和交流，不涉及版权等问题!如原作者不同意，可联系删除。
 2. 代码prompt当前仅支持中文的prompt描述，没有实现原作者在视频中提到英文prompt。
